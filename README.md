@@ -1,2 +1,2 @@
 # Computer-Architecture
-This repository will hold digital systems component designs. These include ALUs, CPU, etc... 
+## Arithmetic Logic Unit
