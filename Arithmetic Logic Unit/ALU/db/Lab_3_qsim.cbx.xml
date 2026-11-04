@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<LOG_ROOT>
-	<PROJECT NAME="Lab_3_qsim">
-		<CBX_INST_ENTRY INSTANCE_NAME="|Lab3_top|logiccircuit4bit:inst7|logiccircuit1bit:BIT0|8TO1_MUX:inst|MUX:inst|lpm_mux:$00001" CBX_FILE_NAME="mux_6qc.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|Lab3_top|logiccircuit4bit:inst7|logiccircuit1bit:BIT1|8TO1_MUX:inst|MUX:inst|lpm_mux:$00001" CBX_FILE_NAME="mux_6qc.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|Lab3_top|logiccircuit4bit:inst7|logiccircuit1bit:BIT2|8TO1_MUX:inst|MUX:inst|lpm_mux:$00001" CBX_FILE_NAME="mux_6qc.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|Lab3_top|logiccircuit4bit:inst7|logiccircuit1bit:BIT3|8TO1_MUX:inst|MUX:inst|lpm_mux:$00001" CBX_FILE_NAME="mux_6qc.tdf"/>
-	</PROJECT>
-</LOG_ROOT>
