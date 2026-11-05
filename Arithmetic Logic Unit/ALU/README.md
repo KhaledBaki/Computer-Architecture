@@ -43,6 +43,30 @@ Lab3_top.bdf (Top-Level Entity)
 │   └── logiccircuit1bit.bdf
 └── register4bit.bdf
 ```
+# Hierarchy:
+## Arithmetic & Logic Unit 4-Bit:
+<img width="1563" height="761" alt="image" src="https://github.com/user-attachments/assets/591dac1a-3015-407f-9c6c-a272b47ba84d" />
+
+## Logic Circuit 4-Bit:
+<img width="738" height="861" alt="image" src="https://github.com/user-attachments/assets/342c8f0e-c754-4480-8f14-cfdef2ca61a6" />
+
+## Logic Circuit 1-Bit:
+<img width="1058" height="442" alt="image" src="https://github.com/user-attachments/assets/6fdfe28a-ad2a-4a6e-9612-f58565f8d00f" />
+
+## Arithmetic Circuit 4-Bit:
+<img width="723" height="822" alt="image" src="https://github.com/user-attachments/assets/eb5058b4-0826-46cb-9894-30bf85d025b7" />
+
+## Arithmetic Circuit 1-Bit:
+<img width="712" height="790" alt="image" src="https://github.com/user-attachments/assets/b4705bbc-5661-4737-8ce1-5f206611cda0" />
+
+## Full Adder 1-Bit:
+<img width="968" height="292" alt="image" src="https://github.com/user-attachments/assets/e6944505-dcae-4f07-a5ab-22ea472c639c" />
+
+## State Circuit 4-Bit:
+<img width="1160" height="497" alt="image" src="https://github.com/user-attachments/assets/93a83e07-d7f7-44ba-83d1-2123f53ba3ee" />
+
+## Register 4-Bit:
+<img width="1090" height="552" alt="image" src="https://github.com/user-attachments/assets/507a4843-dc5c-4097-a9c6-c6be5e0a4f80" />
 
 ## What I Learnt From this Project:
 
