@@ -1,4 +1,9 @@
 # Computer-Architecture
+
+## Projects:
+- Arithmetic Logic Unit
+- Modulo 60 Counter
+
 ## Arithmetic Logic Unit
 - The ALU is part of the computer that is responsible for processing arithmetic and logic operations on the memory cells of the computer.
 - It is made up of two parts, that is the arithmetic unit & the logic unit.
